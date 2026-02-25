@@ -48,10 +48,10 @@
 
 <div align="center">
 
-<a href="vinantimhatre68@gmail.com">
+<a href="mailto:vinantimhatre68@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/vinanti-mhatre">
+<a href="https://www.linkedin.com/in/vinanti-mhatre/">
   <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
