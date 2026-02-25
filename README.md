@@ -12,14 +12,14 @@
 
 ## 🌸 About Me  
 
-🎓 Computer Diploma Student | Future **AI Engineer**  
-👩‍💻 Passionate about building **web apps & intelligent systems**  
-🚀 Love hackathons, clean UI, and meaningful tech  
+🎓 **B.Tech Student** | **Backend Developer** | Aspiring **AI Engineer**  
+🧠 I focus on building **robust backend systems**, APIs, and data-driven applications  
+🚀 Love hackathons, system logic, and turning ideas into scalable solutions  
 
-- 🌱 Currently learning **DSA, Machine Learning & Next.js**
-- 💞️ Looking to collaborate on **hackathons, web & AI projects**
+- 🌱 Currently learning **DSA**, **Backend Architecture**, **Machine Learning**
+- 💞️ Open to collaborating on **backend-heavy projects**, **hackathons**, and **AI/ML ideas**
 - 😄 Pronouns: **She / Her**
-- ⚡ Fun fact: I’ll fix UI spacing before fixing bugs 😌
+- ⚡ Fun fact: I enjoy debugging backend logic more than designing UI 😌
 
 ---
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,git,github,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,postgres,supabase,git,github,vercel,figma&theme=light" />
 
 </div>
 
